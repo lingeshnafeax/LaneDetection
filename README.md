@@ -1,2 +1,2 @@
-# LaneDetection
-Lane Detection project using openCV
+# lane_detection
+OpenCV Lane Detection using Python
